@@ -1,2 +1,9 @@
 Hello GitHub
+<<<<<<< HEAD
 this is a completely different line
+=======
+hello man hello hello
+this is another line
+>>>>>>> feature1
+another another line
+
